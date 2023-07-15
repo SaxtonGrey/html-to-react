@@ -1,6 +1,6 @@
 import React from "react";
-import "./CSS/character-ratings.css";
 import { data } from "./fma-data";
+import "./CSS/character-ratings.css";
 
 const CharacterRatings = () => {
   const sortedCharacters = [...data].sort((a, b) => b.votes - a.votes);

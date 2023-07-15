@@ -1,5 +1,5 @@
 import React from "react";
-import "./src/CSS/header.css";
+import "./CSS/header.css";
 
 const FmaHeader = () => {
   return (

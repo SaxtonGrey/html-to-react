@@ -1,8 +1,8 @@
 import { React } from "react";
 import "./App.css";
-import FmaCharacters from "./fmaCharacters";
+import FmaCharacters from "./FmaCharacters";
 import CharacterRatings from "./character-ratings";
-import FmaHeader from "../header";
+import FmaHeader from "./header";
 
 function App() {
   return (
